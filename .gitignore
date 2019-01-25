@@ -1,3 +1,5 @@
 #add 'node_modules' to .gitignore file
 #add 'error_log' to .gitignore file
 #add 'README.md' to .gitignore file
+temp_auto_push.bat
+temp_interactive_push.bat
