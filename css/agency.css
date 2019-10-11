@@ -8,14 +8,17 @@ body {
   font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+/* adds a specific color for <p> tag */
 p {
   line-height: 1.75;
 }
 
+/* adds a specific color for <a> tag */
 a {
   color: #fed136;
 }
 
+/* This code makes the dictates what happens when the <a> tag is being hovered */
 a:hover {
   color: #fec503;
 }
